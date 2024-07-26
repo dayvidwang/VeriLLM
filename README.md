@@ -19,7 +19,8 @@ Not all of this is currently implemented
 
 ### Steps
 1. Set OPENAI_API_KEY environment variable
-2. Specify your design spec using the following fields
+2. Run `python src/main.py`
+3. Specify your design doc, follow the buttons to generate a testbench and design
 
 ## Running RTLLM Benchmarks
 
