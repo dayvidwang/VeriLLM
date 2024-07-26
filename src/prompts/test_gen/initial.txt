@@ -1,0 +1,15 @@
+Please write a test suite based on the following design spec. If all tests pass, displays "All tests passed." If there are any failures, please display "Failure!" along with information about the failing test.
+
+{task}
+
+Module name:  
+{module}              
+Input ports:
+{input_ports}   
+Output ports:
+{output_ports}
+
+Implementation:
+{implementation_hint}
+
+Give me the complete code for the testbench. Return just the code with no extra content.

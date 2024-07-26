@@ -1,0 +1,13 @@
+{task}
+
+Module name:  
+{module}              
+Input ports:
+{input_ports}   
+Output ports:
+{output_ports}
+
+Implementation:
+{implementation_hint}
+
+Give me the complete code. Return just the code with no extra content.
